@@ -1,0 +1,80 @@
+.header {
+  background-color: #333;
+  border-bottom: 3px solid #bccad8;
+}
+
+.nav {
+  background-color: transparent;
+}
+
+.navbar {
+  background-color: transparent;
+  color: #fff;
+  font-weight: 300;
+  margin-bottom: 0 !important;
+  border: none !important;
+}
+
+.nav-links {
+  color: #fff;
+  font-weight: 700;
+}
+
+.logo {
+  padding-top: 5px;
+}
+
+.padding-top-25 {
+  margin-top: 25px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    color: grey;
+    font-size: 12px;
+    padding: 25px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100px;
+    background-color: #bbc9d7;
+}
+
+.dt-buttons {
+  height: 50px;
+}
+
+.dt-button {
+  padding: 7px;
+  margin: 2px;
+  color: white;
+  background-color: #333;
+}
+
+.dt-button:hover {
+  background-color: #7d7775;
+  color: white;
+  text-decoration: none;
+}
+
+.dataTables_info {
+  font-size: 10px;
+}
+
+a.paginate_button {
+  font-size: 10px;
+  padding: 5px;
+  margin: 2px;
+  color: white;
+  background-color: #bbc9d7;
+}
+
+a.paginate_button:hover {
+  background-color: #fefefe;
+  text-decoration: none;
+}
+
+a.paginate_button .previous .disabled, a.paginate_button .next .disabled {
+  background-color: white;
+}

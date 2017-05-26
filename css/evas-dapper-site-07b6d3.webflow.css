@@ -1,0 +1,26 @@
+.header {
+  background-color: #333;
+}
+
+.nav {
+  background-color: transparent;
+}
+
+.navbar {
+  background-color: transparent;
+  color: #fff;
+  font-weight: 300;
+}
+
+.nav-links {
+  color: #fff;
+  font-weight: 700;
+}
+
+.logo {
+  padding-top: 5px;
+}
+
+.padding-top-25 {
+  margin-top: 25px;
+}
